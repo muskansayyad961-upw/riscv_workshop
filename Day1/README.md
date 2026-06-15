@@ -24,5 +24,5 @@ return 0;
 ```
 ##  image1
 
-![image1](Images/labday1.JPEG)
+![image1](Images/labday1.jpeg)
 
