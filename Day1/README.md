@@ -34,11 +34,11 @@ This screenshot shows the compilation and execution of the `sum1ton.c` program. 
 
 ## image2
 
-![image2](Images/labday1(2).png)
+![image2](Images/labday1(2).jpeg)
 
 ## image3
 
-![image3](Images/labday1(3).png)
+![image3](Images/labday1(3).jpeg)
 
 ### image3: Program Modification and Execution on RISC-V Simulator
 
