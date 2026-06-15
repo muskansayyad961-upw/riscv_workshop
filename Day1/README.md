@@ -26,3 +26,23 @@ return 0;
 
 ![image1](Images/labday1.jpeg)
 
+
+### image1: Compilation and Execution of C Program
+
+This screenshot shows the compilation and execution of the `sum1ton.c` program. The program was first compiled using the GCC compiler and executed to calculate the sum of numbers from 1 to 9. The same program was then compiled using the RISC-V GCC toolchain and run on the Spike RISC-V simulator, producing the correct output.
+
+
+## image2
+
+![image2](Images/labday1(2).png)
+
+## image3
+
+![image3](Images/labday1(3).png)
+
+### image3: Program Modification and Execution on RISC-V Simulator
+
+This screenshot shows the modification of the `sum1ton.c` program using the `gedit sum1ton.c` command. After editing the program, it was compiled using the RISC-V GCC compiler and executed on the Spike RISC-V simulator using `spike pk sum1ton.o`. The output confirms the successful calculation of the sum of numbers from 1 to 12, which is 78.
+
+
+
