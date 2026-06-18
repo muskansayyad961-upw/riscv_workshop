@@ -1,3 +1,3 @@
 #lab maker chip
-## screenshot 1
-![Screenshot 1](images/makerchip.jpeg)
+## image1
+![image1](LabMakerChip/makerchip.jpeg)
